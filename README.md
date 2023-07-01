@@ -8,6 +8,9 @@ Creamos la base de datos en donde trabajaremos
 
 Creamos en jupyter el codigo 
 ![image](https://github.com/kathycan27/CouchDB/assets/117754050/ed1753e0-5b29-41a9-937f-ab85f75136c4)
+Verificamos si los datos ya se han cargadi
+![image](https://github.com/kathycan27/CouchDB/assets/117754050/fa40fd7c-7d5e-4cfe-9f2b-dcc9cf45c020)
+
 Creamos la replica entre las bases de datos
 ![image](https://github.com/kathycan27/CouchDB/assets/117754050/646d01c3-5537-4d82-a747-6fbaef350af3)
 La replica ya creada en donde se pasran nuestro datos a la base remota
